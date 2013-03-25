@@ -9,3 +9,7 @@ HW 1:
 http://wiki.quantsoftware.org/index.php?title=CompInvestI_Homework_1
 - Simulates the performance of a portfolio
 - Finds the optimal allocation for a portfolio of given equities
+
+HW 2:
+http://wiki.quantsoftware.org/index.php?title=CompInvestI_Homework_2
+- Conduct Event Studies to assess the impact of stock price events (information) on future prices
